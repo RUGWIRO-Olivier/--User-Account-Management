@@ -1,6 +1,6 @@
 # user-account-management-api
 
-`user-account-management-api` is a backend application written in spring boot for the purpose of managing users of a soft Z Company.
+`user-account-management-api` is a web application written in spring boot for the purpose of managing users of a soft Z Company.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ This application is able to do the following:
 - It is able to let users reset their password once they are forgotten by sending them an email with the help of [Infobip](https://www.infobip.com)
 - It validate users data before they register their account
 - It allows user profiles to be deleted once required
-- It performs CRUD operations perfectly
+- Account Verification
 - It allow to search a user by either user Id or username;
 - It allow users to add profile images on their account
 - This project uses JWT to generate token for the users
