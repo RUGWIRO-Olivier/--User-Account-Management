@@ -1,6 +1,6 @@
-# user-profile-management-api
+# user-account-management-api
 
-`user-profile-management-api` is a backend application written in spring boot for the purpose of managing users of a soft drink company.
+`user-account-management-api` is a backend application written in spring boot for the purpose of managing users of a soft Z Company.
 
 ## Getting Started
 
