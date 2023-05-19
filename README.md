@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 - You need to have a relational database management system on your machine, in this application I am using [MariaDb](https://go.mariadb.com/download-mariadb-server-community.html) so consider having it in your machine.
 - And optionally you can have [Maven CLI](https://maven.apache.org/ref/3.6.1/maven-embedder/cli.html) installed on your machine as it help when building or doing some other maven actions in spring boot applications
 - For you to be able to test the endpoints you need to have an API testing tool like [Postman Client](https://www.postman.com/downloads) on your machine or alternatively I have configured Springdoc Swagger in this application which allow you to test the application easily without having to download another API testing tool
-- So to test the endpoints with Swagger use this link http://localhost:8080/swagger-ui/index.html as the default server port for this applicaion is ``8080`` so once you decide to change the server port number remember to change it in the above swagger link too
+- So to test the endpoints with Swagger use this link http://localhost:8090/swagger-ui/index.html as I changed the default server port to ``8090`` so once you decide to change the server port number remember to change it in the above swagger link too
 
 
 ## Built with
